@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\bin\Debug\Gestion formation.exe.config
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\bin\Debug\Gestion formation.exe
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\bin\Debug\Gestion formation.pdb
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\obj\Debug\Gestion formation.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\obj\Debug\Gestion formation.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\obj\Debug\Gestion formation.exe
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\obj\Debug\Gestion formation.pdb
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\obj\Debug\Gestion_groupe.Form1.resources
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\obj\Debug\Gestion_groupe.formCRUD.resources
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\obj\Debug\Gestion_groupe.FormPersonne.resources
+C:\Users\Alex\Desktop\Gestion formation\Gestion formation\obj\Debug\Gestion_groupe.Properties.Resources.resources
